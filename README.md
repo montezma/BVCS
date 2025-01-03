@@ -76,7 +76,7 @@ Place your video files in the Videos folder.
 
 Run the script:
 
-BVCS script.py
+BVCS.py
 
 Contact sheets will be saved in the output_sheets folder.
 
