@@ -57,16 +57,22 @@ pip install pillow ffmpeg-python
 
 Update the following variables in script.py to suit your needs:
 
-VIDEO_FOLDER = r"C:\path\to\videos"
-OUTPUT_FOLDER = r"C:\path\to\output_sheets"
+ VIDEO_FOLDER = r"C:\path\to\videos"
+
+ OUTPUT_FOLDER = r"C:\path\to\output_sheets"
 
  **ADVANCED** *(no need to change unless you want to)*
-FONT_PATH = r"C:\Windows\Fonts\arial.ttf"
-REFERENCE_WIDTH = 2560
-REFERENCE_HEIGHT = 1440
-FONT_SIZE = 75
-THUMBNAIL_PADDING = 10
-THUMBNAILS = 8
+ FONT_PATH = r"C:\Windows\Fonts\arial.ttf"
+ 
+ REFERENCE_WIDTH = 2560
+ 
+ REFERENCE_HEIGHT = 1440
+ 
+ FONT_SIZE = 75
+ 
+ THUMBNAIL_PADDING = 10
+ 
+ THUMBNAILS = 8
 
 --------------------------------------------------------------------------------------------------
 
