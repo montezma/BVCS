@@ -27,6 +27,12 @@ Customizable Layout: Resolution and text font sizes can be adjusted.
 
 Error Handling: Handles timeouts, missing frames, and invalid video files.
 
+
+![sony another world mp4_sheet](https://github.com/user-attachments/assets/c3485695-a416-45a4-9050-607ac5992559)
+
+
+
+
 --------------------------------------------------------------------------------------------------
 
  **Requirements**
@@ -47,22 +53,14 @@ pip install pillow ffmpeg-python
 
 --------------------------------------------------------------------------------------------------
 
- Folder Structure
-
-Video Contact Sheet Maker/
-├── script.py       # Main Python script
-├── output_sheets/  # Folder for generated contact sheets
-├── temp/           # Temporary folder for thumbnails
-└── Videos/         # Source folder for video files
-
---------------------------------------------------------------------------------------------------
-
  **Configuration**
 
 Update the following variables in script.py to suit your needs:
 
 VIDEO_FOLDER = r"C:\path\to\videos"
 OUTPUT_FOLDER = r"C:\path\to\output_sheets"
+
+ **ADVANCED** *(no need to change unless you want to)*
 FONT_PATH = r"C:\Windows\Fonts\arial.ttf"
 REFERENCE_WIDTH = 2560
 REFERENCE_HEIGHT = 1440
