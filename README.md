@@ -62,6 +62,7 @@ Update the following variables in script.py to suit your needs:
  OUTPUT_FOLDER = r"C:\path\to\output_sheets"
 
  **ADVANCED** *(no need to change unless you want to)*
+ 
  FONT_PATH = r"C:\Windows\Fonts\arial.ttf"
  
  REFERENCE_WIDTH = 2560
